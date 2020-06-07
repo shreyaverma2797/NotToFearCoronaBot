@@ -1,6 +1,6 @@
 
 
-# End-to-End Covid-19 chatbot using DialogFlow,Python/Flask and deployed on Pivotal Cloud foundary and Telegram
+# IBM WATSON one strop platform for Covid-19 chatbot using DialogFlow,Python/Flask and deployed on Pivotal Cloud foundary and Telegram
 This chatbot developed using Dialoglow,python,flask,MongoDB and deployed on Telegram. search @NotToFearCoronaBot on telegram app
 BestCovid-19 Bot can give answers of all of your queries related to covid-19 also it can -
 I have also mentioned how to test it locally on PostMan.
